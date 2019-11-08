@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [ Introduction](#intro)
-2. [ F# Overview ](#FOver)
+2. [ Haskell Overview ](#FOver)
 3. [ Go Overview ](#GoOver)
 3. [ Parser Example ](#ParsEx)
 5. [ Comparison ](#Comp)
