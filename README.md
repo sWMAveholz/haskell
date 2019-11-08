@@ -14,7 +14,7 @@
 sometext
 
 <a name="FOver"></a>
-## 2. F# Overview
+## 2. Haskell Overview
 
 sometext
 
